@@ -1,4 +1,4 @@
-module github.com/JCoupalK/go-pgdump
+module github.com/suwhs/go-pgdump
 
 go 1.21.5
 
